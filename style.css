@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3{color: #47c7b8;}
+.top{height: 50vh;font-size: x-large;padding: 100px;}
+.Join{color: lightgreen;}
+.month{background-color: #3b948a ;
+width: 50vw;
+height: 50vh;}
+.white{color: white;}
+.web{background-color: #69B9B6;
+width: 50vw;
+height: 50vh;padding: 100px;font-size: x-large;padding-top: 60px;}
+ul{list-style: none;}
+.row{display: flex; color: white;}
+span{font-size: 32px;padding: 20px;}
+.white{padding: 20px;}
+button{background-color: yellowgreen; padding: 20px;border: none;border-radius: 4px;color: white;}
+.web h4{
+    padding-bottom: 20px;
+}.month{padding: 100px;font-size: x-large;padding-left: 60px;padding-top: 40px;}
